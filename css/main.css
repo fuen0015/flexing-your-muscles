@@ -21,4 +21,11 @@ img {
   display: flex;
   justify-content: space-between;
   padding: 1em 0;
+  background-color: #86c9d9;
+  border-top: 3px solid #005e76;
+  color: #005e76;
+}
+
+.social > li {
+  width: 3em;
 }
